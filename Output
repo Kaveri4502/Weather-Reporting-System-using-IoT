@@ -1,0 +1,22 @@
+  CASE 1: Temp=-41.23                                                                                          
+		-TOO COLD
+		Intensity: 6
+		Intensity:6
+		-TOO BRIGHT
+		CASE 2: Temp=19.06
+		-COLD
+		Intensity: 425
+		-MEDIUM LIGHT
+		CASE 3: Temp=25.15
+		-NORMAL TEMP
+		Intensity:461
+		-MEDIUM LIGHT
+		CASE 4: Temp=42.82
+		-HOT
+		Intensity: 475
+		-MEDIUM LIGTH
+		CASE 5: Temp=-60.82
+		-TOO HOT
+		Intensity: 499
+		-TOO DARK
+
